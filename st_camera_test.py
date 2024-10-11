@@ -6,9 +6,9 @@ deb = st.slider(
 image = ""
 image= camera_input_live(
         debounce=deb,
-        height: int = 265,
-        width: int = 352, 
- 　　　　) #>300
+        height= 265,
+        width= 352, 
+        ) #>300
 
 
 if image is not None:
