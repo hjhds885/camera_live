@@ -1,2 +1,2 @@
 streamlit==1.38.0
-camera_input_live
+streamlit-camera-input-live
